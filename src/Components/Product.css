@@ -1,0 +1,18 @@
+.product-item {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+}
+
+.product-item img {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.product-item:hover {
+  background-color: #f0f0f0;
+}
